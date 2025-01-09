@@ -1,1 +1,2 @@
-# secure-notes-app
+# secure-notes
+
